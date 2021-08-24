@@ -1,4 +1,4 @@
-# hello-world
+# hello-world 2
 first program on github
 
 Hello, My name is zach and I am a Computer Science major at 
